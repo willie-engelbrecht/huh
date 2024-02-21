@@ -1,4 +1,4 @@
-module github.com/charmbracelet/huh
+module github.com/willie-engelbrecht/huh
 
 go 1.18
 
